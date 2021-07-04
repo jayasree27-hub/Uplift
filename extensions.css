@@ -1,0 +1,22 @@
+/* if u want to customize website..we can use css to modify . */
+body{
+    background:linear-gradient(to bottom right,pink,skyblue) !important;
+    
+    font-family:'Poppins', sans-serif;
+}
+.carousel-item img{
+    height: 550px;
+}
+.grid{
+    padding: 10px;
+}
+.col-sm-4{
+    border: 2px solid rgb(3 ,3, 29) ;  padding: 10px;
+    
+}
+.col-sm-8{
+    border: 2px solid rgb(3, 3, 29) ;  padding: 10px;
+}
+.btn-outline-info{
+    color:red;
+}
